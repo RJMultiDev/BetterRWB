@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">一个手表上的第三方Bilibili客户端，但是重制版</center>
+<h3 align="center">一个手表上的第三方Bilibili客户端，但是重制版再次重制</center>
 
 ## :watch:配置要求
 
