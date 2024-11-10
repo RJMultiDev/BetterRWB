@@ -25,7 +25,7 @@ android {
         targetSdk = 35
         compileSdk = 35
         versionCode = 47
-        versionName = "Atlas 阿特拉斯"
+        versionName = "Atlas"
         vectorDrawables {
             useSupportLibrary = true
         }
@@ -75,7 +75,7 @@ android {
         outputs.all {
             val output = this as com.android.build.gradle.internal.api.BaseVariantOutputImpl
             output.outputFileName =
-                "Re-WearBili - $versionName Ver.$releaseNumber Rel.$versionCode.apk"
+                "BetterRWB-$versionName-$releaseNumber.$versionCode.apk"
         }
     }
 
